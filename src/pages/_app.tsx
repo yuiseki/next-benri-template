@@ -21,7 +21,7 @@ const App = ({ Component, pageProps }: AppProps) => (
   <>
     <Head>
       <title>
-        貧困可視化プロトタイプ
+        Nextjs App with TypeScript, ESlint, Jest, Emotion, Tailwind and Twin
       </title>
       <link rel="icon" href="/favicon.ico" />
     </Head>

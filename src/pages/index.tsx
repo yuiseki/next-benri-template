@@ -8,7 +8,7 @@ export const Home = (): JSX.Element => (
   <div css={container}>
     <main>
       <h1 tw="text-5xl font-bold">
-        貧困可視化プロトタイプ
+        Nextjs App with TypeScript, ESlint, Jest, Emotion, Tailwind and Twin
       </h1>
     </main>
   </div>
